@@ -11,4 +11,3 @@ plugins {
 }
 
 rootProject.name = "modelcontextprotocol-java-sdk"
-include("app")
